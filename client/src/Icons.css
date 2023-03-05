@@ -1,0 +1,141 @@
+/* linkedin */
+.social-network a.icoLinkedin i {
+  color: #007bb7;
+}
+
+.social-network a.icoLinkedin {
+  border: 1px solid #007bb7;
+  border-radius: 50%;
+}
+
+.social-network a.icoLinkedin:hover {
+  background-color: #007bb7;
+}
+
+/* github */
+.social-network a.icoGithub i {
+  color: #24292f;
+}
+
+.social-network a.icoGithub {
+  border: 1px solid #24292f;
+  border-radius: 50%;
+}
+
+.social-network a.icoGithub:hover {
+  background-color: #24292f;
+}
+
+/* whatsapp */
+.social-network a.icoWhatsapp i {
+  color: #12ae0a;
+}
+
+.social-network a.icoWhatsapp {
+  border: 1px solid #12ae0a;
+  border-radius: 50%;
+}
+
+.social-network a.icoWhatsapp:hover {
+  background-color: #12ae0a;
+}
+
+/* Instagram */
+.social-network a.icoInstagram i {
+  color: #cd486b;
+}
+
+.social-network a.icoInstagram {
+  border: 1px solid #cd486b;
+  border-radius: 50%;
+}
+
+.social-network a.icoInstagram:hover {
+  background-color: #cd486b;
+}
+
+/* Mail */
+.social-network a.icoMail i {
+  color: #21a39f;
+}
+
+.social-network a.icoMail {
+  border: 1px solid #21a39f;
+  border-radius: 50%;
+}
+
+.social-network a.icoMail:hover {
+  background-color: #21a39f;
+}
+
+.social-network a.icoGithub:hover i,
+.social-network a.icoLinkedin:hover i,
+.social-network a.icoWhatsapp:hover i,
+.social-network a.icoInstagram:hover i,
+.social-network a.icoMail:hover i {
+  color: #fff;
+}
+
+.social-network a.socialIcon:hover,
+.socialHoverClass {
+  color: #44bcdd;
+}
+
+.social-circle div a {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto 0 auto;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  width: 35px;
+  height: 35px;
+  font-size: 20px;
+}
+
+.social-circle div i {
+  margin: 0;
+  line-height: 35px;
+  text-align: center;
+}
+
+.social-circle div a:hover i,
+.triggeredHover {
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -ms--transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.social-circle i {
+  color: #595959;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.social-network a {
+  background-color: #f9f9f9;
+}
+
+.socialCont {min-height: 100px;}
+
+.iconCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerSubCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
