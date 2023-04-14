@@ -159,7 +159,7 @@ const profileData = {
     },
     {
       images: [btGroupJpg, btBrandPng],
-      title: "BT OCS-WFMT MIGRATION",
+      title: "BT MOIOMS-WFMT MIGRATION",
       desc: `BRITISH TELECOM is well known network/broadband provider in the United Kingdom.
       So the data they deal is so huge, It is very much important to keep the data secure.
       So the data is migrated from MOIOMS (Say source ) to WFMT System (Say Target) based on the validations or requirements from the business.  `,
