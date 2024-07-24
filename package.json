@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run build --prefix client",
-    "start": "npm i && node index.js"
+    "start": "npm install -g npm@latest && npm i && node index.js"
   },
   "keywords": [],
   "author": "",
